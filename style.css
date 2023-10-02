@@ -1,0 +1,94 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+#sec{
+    display: flex;
+    background-image: url(top-banner.png);
+    
+    background-repeat: no-repeat;
+    margin-bottom: 300px;
+   
+}
+span{
+    color: orange;
+}
+#faltu-lekha{
+    width: 50%;
+    margin-right: 40px;
+    margin-left: 8%;
+    margin-top: 30px;
+}
+#cobi img {
+    border-radius: 40%;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+#cobi{
+    width: 50%;
+}
+#hire{
+    color: #FAF9F6;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(orange,tomato);
+}
+#love
+{
+    display: flex;
+    margin-bottom: 30%;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#wife img
+{
+    border-radius: 40%;
+    margin-left: 40px;
+   
+    
+}
+#hass{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#center{
+    text-align: center;
+}
+#resume{
+    text-decoration: wavy;
+    color: #FAF9F6;
+    background-image: linear-gradient(black,white);
+    padding: 10px 30px;
+}
+#expo{
+    display: flex;
+    margin-bottom: 10%;
+    
+
+}
+#senior{
+    margin-left: 5%;
+    width: 100%;
+    border-left:8px solid purple;
+    padding-left: 20px;
+   
+}
+.box-shadow{
+    box-shadow: 20px 5px 5px 5px black;
+}
+
+
+#picci{
+    width: 50%;
+    margin-left: 30%;
+    padding-left: 20px;
+    border-left: 8px solid red;
+    
+}
+.rong{
+    color:orange;
+    
+
+}
